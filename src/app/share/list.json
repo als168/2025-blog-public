@@ -31,34 +31,12 @@
 		"stars": 3
 	},
 	{
-		"name": "Neumorphism",
-		"url": "https://neumorphism.io/",
-		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
-		"tags": [
-			"CSS",
-			"Github"
-		],
-		"stars": 2
-	},
-	{
 		"name": "Nucleo",
 		"url": "https://nucleoapp.com/app/?library=core",
 		"logo": "/images/share/7e720f35557fa9de.svg",
 		"description": "图标库，网站整体很干净。独特的是，它有一类像素风格的图标，很有意思。它的 icon 也很多，还有 grass 风格的。",
 		"tags": [
 			"Icons"
-		],
-		"stars": 3
-	},
-	{
-		"name": "Loadership",
-		"url": "https://www.loadership.com/",
-		"logo": "https://www.loadership.com/loadership_logo_round.svg",
-		"description": "13种 Loader 样式，在线调整使用。在 AI 时代可能意义小很多了。",
-		"tags": [
-			"CSS",
-			"Github"
 		],
 		"stars": 3
 	},
@@ -79,17 +57,6 @@
 		"description": "不可错过的参考库，有很多交互效果，包括热门的 Button、Loader 设计，内容丰富，还在不断更新。",
 		"tags": [
 			"CSS"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Magic UI",
-		"url": "https://magicui.design/",
-		"logo": "https://magicui.design/favicon.ico",
-		"description": "shadcn/ui 伴生库，有很多实用设计。取用也很方便，可以自己复制独立的代码。",
-		"tags": [
-			"组件",
-			"Github"
 		],
 		"stars": 4
 	},
@@ -192,16 +159,6 @@
 			"学习"
 		],
 		"stars": 4
-	},
-	{
-		"name": "Ease 函数参考",
-		"logo": "https://easings.net/96.8aa68ac4.png",
-		"url": "https://easings.net/",
-		"description": "当你在调整动画节奏时，这个 ease 表能帮助直观感受 ease 表现出的效果",
-		"tags": [
-			"Github"
-		],
-		"stars": 3
 	},
 	{
 		"name": "Isocons",
